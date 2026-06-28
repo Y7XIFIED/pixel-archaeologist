@@ -30,42 +30,26 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
    ```
 
 ## 📂 Project Structure
-```text
-Pixel Archaeologist/
-├── .astro/
-│   └── collections/
-├── .github/
-│   └── workflows/
-├── .vercel/
-├── .vscode/
-├── assets/
-├── dist/
-│   ├── fonts/
-│   │   └── termina-test/
-│   ├── icons/
-│   ├── images/
-│   └── _astro/
-├── font/
-│   └── termina-test/
-├── public/
-│   ├── fonts/
-│   │   └── termina-test/
-│   ├── icons/
-│   └── images/
-└── src/
-    ├── assets/
-    │   ├── frames/
-    │   └── works/
-    ├── components/
-    ├── pages/
-    ├── styles/
-    │   ├── helpers/
-    │   ├── site/
-    │   ├── utilities/
-    │   ├── variables-css/
-    │   └── variables-scss/
-    └── utils/
-```
+
+- 📁 **.astro/**
+- 📁 **.github/**
+- 📁 **.vercel/**
+- 📁 **.vscode/**
+- 📁 **assets/**
+- 📁 **dist/**
+- 📁 **font/**
+- 📁 **public/**
+- 📁 **src/**
+- 📄 `.gitattributes`
+- 📄 `.gitignore`
+- 📄 `.prettierrc`
+- 📄 `astro.config.mjs`
+- 📄 `package-lock.json`
+- 📄 `package.json`
+- 📄 `Pixel Archaeologist.mp4`
+- 📄 `postcss.config.cjs`
+- 📄 `README.md`
+- 📄 `tsconfig.json`
 
 ## 💻 Tech Stack
 HTML5 & CSS3: Structural vectors and custom styling variables.
